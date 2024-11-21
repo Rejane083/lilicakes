@@ -1,0 +1,36 @@
+html,body {
+    margin:0px ;
+    padding:0px;
+
+}
+body {
+    text-align: center;
+}
+.navigation li{
+    display: inline-block;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+.navigation ul{
+    margin-top: 0;
+    list-style: none;
+    padding-left: 0;
+
+}
+.navigation{
+    background-color: beige;
+    color: brown;
+
+}
+
+.navigation h4{
+    background-color: brown;
+    color:antiquewhite
+
+}
+.content img{
+    width: 300px
+   
+}
